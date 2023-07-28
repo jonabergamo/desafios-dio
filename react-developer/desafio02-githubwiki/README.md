@@ -35,7 +35,7 @@ Certifique-se de ter instalado em sua máquina:
 
 ## Uso
 
-1. Execute o projeto: `npm run dev`
+1. Execute o projeto: `npm start`
 2. Abra o navegador e acesse: `http://localhost:3000`
 
 ## Contribuições
